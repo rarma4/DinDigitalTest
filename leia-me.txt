@@ -1,0 +1,6 @@
+Teste de criação de tema para o arquivo figma
+https://www.figma.com/file/2RWnLeJ62CXoYjUadxo0EC/teste-tema-para-wp?node-id=0%3A1
+
+arquivos do tema do wordpress: dinDigital-theme.zip
+Dados para importação do Wordpress: bellaolonje.WordPress.2021-09-17.xml
+Imagens usadas: imgs.rar
